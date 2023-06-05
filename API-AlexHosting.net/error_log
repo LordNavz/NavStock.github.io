@@ -1,0 +1,5 @@
+[25-Aug-2022 01:24:22 UTC] PHP Warning:  Undefined array key "nickname" in /home/rootjhjhj/public_html/API-AlexHosting.net/AlexHost-ID.php on line 21
+[04-Sep-2022 07:54:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/codabaruv/public_html/API-AlexHosting.net/AlexHost-ID.php on line 21
+[04-Sep-2022 07:54:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/codabaruv/public_html/API-AlexHosting.net/AlexHost-ID.php on line 21
+[04-Sep-2022 07:56:36 UTC] PHP Warning:  Undefined array key "userID" in /home/codabaruv/public_html/API-AlexHosting.net/AlexHost-ID.php on line 3
+[04-Sep-2022 07:56:59 UTC] PHP Warning:  Undefined array key "userID" in /home/codabaruv/public_html/API-AlexHosting.net/AlexHost-ID.php on line 3
